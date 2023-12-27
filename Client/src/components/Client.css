@@ -1,0 +1,17 @@
+.topbar-dash {
+    height: 65px;
+    box-sizing: border-box;
+    border-bottom: 1px solid #f1f1f1;
+    background-color: #FFFFFF;
+    /* background-color: ; */
+}
+
+.topbar-dash ul li a {
+    color: #F4263E;
+    font-size: 1rem;
+}
+
+.col-line {
+    border-right: 2px solid #f1f1f1;
+    padding-left: 10px;
+}
